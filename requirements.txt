@@ -1,0 +1,10 @@
+fastapi[all]
+sqlalchemy
+passlib==1.7.4
+bcrypt==4.0.1
+pyjwt
+httpx
+pydantic-settings
+psycopg2
+fastapi-mail
+aioredis
